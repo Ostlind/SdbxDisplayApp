@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>AF-JSDTWZ1</Machine>
+    <WindowsUser>A501205</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|ARM</SolutionConfiguration>
+    <PackageArchitecture>arm</PackageArchitecture>
+    <PackageIdentityName>b10a3aa5-158e-4437-ba76-2ab003cfe4c7</PackageIdentityName>
+    <PackageIdentityPublisher>CN=A501205</PackageIdentityPublisher>
+    <IntermediateOutputPath>D:\Microsoft Visual Studio 2015\Projects\SdbxDisplayApp\SdbxDisplayApp\bld\ARM\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType></RemoteDeploymentType>
+    <PackageRegistrationPath></PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\Microsoft Visual Studio 2015\Projects\SdbxDisplayApp\SdbxDisplayApp\bin\ARM\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\Microsoft Visual Studio 2015\Projects\SdbxDisplayApp\SdbxDisplayApp\674f50d287a8c48dc19ba404d20fe713.eot">
+      <PackagePath>674f50d287a8c48dc19ba404d20fe713.eot</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Microsoft Visual Studio 2015\Projects\SdbxDisplayApp\SdbxDisplayApp\912ec66d7572ff821749319396470bde.svg">
+      <PackagePath>912ec66d7572ff821749319396470bde.svg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Microsoft Visual Studio 2015\Projects\SdbxDisplayApp\SdbxDisplayApp\af7ae505a9eed503f8b8e6982036873e.woff2">
+      <PackagePath>af7ae505a9eed503f8b8e6982036873e.woff2</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Microsoft Visual Studio 2015\Projects\SdbxDisplayApp\SdbxDisplayApp\assets\.npmignore">
+      <PackagePath>assets\.npmignore</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Microsoft Visual Studio 2015\Projects\SdbxDisplayApp\SdbxDisplayApp\assets\AF.png">
+      <PackagePath>assets\AF.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Microsoft Visual Studio 2015\Projects\SdbxDisplayApp\SdbxDisplayApp\assets\background.png">
+      <PackagePath>assets\background.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Microsoft Visual Studio 2015\Projects\SdbxDisplayApp\SdbxDisplayApp\assets\foreground.png">
+      <PackagePath>assets\foreground.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Microsoft Visual Studio 2015\Projects\SdbxDisplayApp\SdbxDisplayApp\assets\midground.png">
+      <PackagePath>assets\midground.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Microsoft Visual Studio 2015\Projects\SdbxDisplayApp\SdbxDisplayApp\images\LockScreenLogo.scale-200.png">
+      <PackagePath>images\LockScreenLogo.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Microsoft Visual Studio 2015\Projects\SdbxDisplayApp\SdbxDisplayApp\images\SplashScreen.scale-200.png">
+      <PackagePath>images\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Microsoft Visual Studio 2015\Projects\SdbxDisplayApp\SdbxDisplayApp\images\Square150x150Logo.scale-200.png">
+      <PackagePath>images\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Microsoft Visual Studio 2015\Projects\SdbxDisplayApp\SdbxDisplayApp\images\Square44x44Logo.scale-200.png">
+      <PackagePath>images\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Microsoft Visual Studio 2015\Projects\SdbxDisplayApp\SdbxDisplayApp\images\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>images\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Microsoft Visual Studio 2015\Projects\SdbxDisplayApp\SdbxDisplayApp\images\StoreLogo.png">
+      <PackagePath>images\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Microsoft Visual Studio 2015\Projects\SdbxDisplayApp\SdbxDisplayApp\images\Wide310x150Logo.scale-200.png">
+      <PackagePath>images\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Microsoft Visual Studio 2015\Projects\SdbxDisplayApp\SdbxDisplayApp\b06871f281fee6b241d60582ae9369b9.ttf">
+      <PackagePath>b06871f281fee6b241d60582ae9369b9.ttf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Microsoft Visual Studio 2015\Projects\SdbxDisplayApp\SdbxDisplayApp\favicon.ico">
+      <PackagePath>favicon.ico</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Microsoft Visual Studio 2015\Projects\SdbxDisplayApp\SdbxDisplayApp\fee66e712a8a08eef5805a46892932ad.woff">
+      <PackagePath>fee66e712a8a08eef5805a46892932ad.woff</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Microsoft Visual Studio 2015\Projects\SdbxDisplayApp\SdbxDisplayApp\index.html">
+      <PackagePath>index.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Microsoft Visual Studio 2015\Projects\SdbxDisplayApp\SdbxDisplayApp\inline.bundle.js">
+      <PackagePath>inline.bundle.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Microsoft Visual Studio 2015\Projects\SdbxDisplayApp\SdbxDisplayApp\main.bundle.js">
+      <PackagePath>main.bundle.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Microsoft Visual Studio 2015\Projects\SdbxDisplayApp\SdbxDisplayApp\scripts.bundle.js">
+      <PackagePath>scripts.bundle.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Microsoft Visual Studio 2015\Projects\SdbxDisplayApp\SdbxDisplayApp\styles.bundle.js">
+      <PackagePath>styles.bundle.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Microsoft Visual Studio 2015\Projects\SdbxDisplayApp\SdbxDisplayApp\inline.map">
+      <PackagePath>inline.map</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Microsoft Visual Studio 2015\Projects\SdbxDisplayApp\SdbxDisplayApp\main.map">
+      <PackagePath>main.map</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Microsoft Visual Studio 2015\Projects\SdbxDisplayApp\SdbxDisplayApp\scripts.map">
+      <PackagePath>scripts.map</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Microsoft Visual Studio 2015\Projects\SdbxDisplayApp\SdbxDisplayApp\styles.map">
+      <PackagePath>styles.map</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Microsoft Visual Studio 2015\Projects\SdbxDisplayApp\SdbxDisplayApp\bin\ARM\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
